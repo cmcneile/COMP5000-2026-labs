@@ -1,5 +1,3 @@
-# COMP5000-2025-labs
+# COMP5000-2026-labs
 
 Python questions
-
-# COMP5000-2026-labs
